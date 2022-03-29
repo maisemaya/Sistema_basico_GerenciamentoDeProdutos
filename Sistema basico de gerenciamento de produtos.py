@@ -12,8 +12,6 @@ while opcao_menu != 5:
 3) Gravar produtos em arquivo. 
 4) Carregar produtos do arquivo. 
 5) Sair''')
-
-    aaaaa
     
     opcao_menu = int(input("Opção: "))
 
